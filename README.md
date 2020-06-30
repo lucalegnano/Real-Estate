@@ -14,4 +14,3 @@ Data structure in this project follows [GeoJSON](https://geojson.org/) standard.
 
 - Using React, map immediately reacts to filter changes and re-renders the results.
 
-## Preview
